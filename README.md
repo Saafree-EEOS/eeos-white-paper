@@ -25,8 +25,17 @@ English and Vietnamese plain-language guides are **subordinate explanatory compa
 
 | Language | Guide |
 |----------|--------|
-| English | [editions/2026-foundation/guides/eeos-plain-language-guide-en.md](editions/2026-foundation/guides/eeos-plain-language-guide-en.md) (forthcoming) |
-| Vietnamese | [editions/2026-foundation/guides/eeos-plain-language-guide-vi.md](editions/2026-foundation/guides/eeos-plain-language-guide-vi.md) (forthcoming) |
+| English | [editions/2026-foundation/guides/eeos-plain-language-guide-en.md](editions/2026-foundation/guides/eeos-plain-language-guide-en.md) |
+| Vietnamese | [editions/2026-foundation/guides/eeos-plain-language-guide-vi.md](editions/2026-foundation/guides/eeos-plain-language-guide-vi.md) |
+
+## Reader essays
+
+Narrative entry points to the 2026 Foundation Edition. Reader essays are subordinate to the Plain-Language Guides and to the canonical scientific White Paper.
+
+| Language | Essay |
+|----------|--------|
+| English | [editions/2026-foundation/reader-essays/eeos-reader-essay-en.md](editions/2026-foundation/reader-essays/eeos-reader-essay-en.md) |
+| Vietnamese | [editions/2026-foundation/reader-essays/eeos-reader-essay-vi.md](editions/2026-foundation/reader-essays/eeos-reader-essay-vi.md) |
 
 ## Future editions
 
